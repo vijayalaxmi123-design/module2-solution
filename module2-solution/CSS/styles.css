@@ -20,8 +20,8 @@
      display: inline-block;
 	}
 	#chicken,#beaf,#sushi{
-	border-left: 1px solid;
-	border-bottom: 1px solid;
+	border-left: 1px solid black;
+	border-bottom: 1px solid black;
     float: right;
     width: 150px;
     height: 30px;
@@ -44,8 +44,8 @@
      display: inline-block;
 	}
 	#chicken,#beaf,#sushi{
-	border-left: 1px solid;
-	border-bottom: 1px solid;
+	border-left: 1px solid black;
+	border-bottom: 1px solid black;
     float: right;
     width: 150px;
     height: 30px;
@@ -77,8 +77,8 @@
      display: inline-block;
 	}
 	#chicken,#beaf,#sushi{
-	border-left: 1px solid;
-	border-bottom: 1px solid;
+	border-left: 1px solid black;
+	border-bottom: 1px solid black;
     float: right;
     width: 150px;
     height: 30px;
@@ -102,8 +102,8 @@
 	}
 	#chicken,#beaf,#sushi{
 	
-	border-left: 1px solid;
-	border-bottom: 1px solid;
+	border-left: 1px solid black;
+	border-bottom: 1px solid black;
     float: right;
     width: 150px;
     height: 30px;
